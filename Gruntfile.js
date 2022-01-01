@@ -25,7 +25,7 @@ module.exports = function (grunt) {
 				filter:  'isFile',
 				cwd:     'dist/',
 				src:     '**',
-				dest:    'Update This Path'
+				dest:   '/home/ty/.config/Screeps/scripts/screeps_ch3_network___21025/default'
 			},
 		},
 	});
